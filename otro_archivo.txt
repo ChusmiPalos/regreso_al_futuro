@@ -1,1 +1,2 @@
 Este es el archivo hijo del anterior.
+Como decía en una versión que hemos descartado, este archivo es el que será subordinado del archivo historia.txt
